@@ -4,4 +4,4 @@
 Made with Android Studio, have a look at android_manifest.xml if you want to make it compile properly.</h3>
 <h2> Screenshots:<h2>
 <img src="https://raw.githubusercontent.com/nQuery512/R6Tools/master/main/res/drawable/screenshot_00.png" width="250">
-<br><h3>I make this projet with [delgez](https://github.com/delgez/), educational purpose only in any case, we won't monetize anything, all rights belong to there respective owner.</h3>
+<br><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I make this projet with [delgez](https://github.com/delgez/), educational purpose only in any case, we won't monetize anything, all rights belong to there respective owner.</h3>
