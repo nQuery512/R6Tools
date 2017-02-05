@@ -1,6 +1,6 @@
 <h1> R6Tools </h1>
 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here is my first project on github =), this project it's basically a knowledge database for Rainbow 6 : Siege's players.
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here is my first project on github =), this project is basically a knowledge database for Rainbow 6 : Siege's players.
 Made with Android Studio, have a look at android_manifest.xml if you want to make it compile properly.</h3>
 <h2> Screenshots:</h2>
 <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theme v0.8: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theme Light Dark:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theme Full Dark: <h3>
