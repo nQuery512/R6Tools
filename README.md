@@ -6,5 +6,5 @@ Made with Android Studio, have a look at android_manifest.xml if you want to mak
 <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theme v0.8: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theme Light Dark:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theme Full Dark: <h3>
 <section><img width="230"src="https://raw.githubusercontent.com/nQuery512/R6Tools/master/main/res/drawable/screenshot_00.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="230"src="https://raw.githubusercontent.com/nQuery512/R6Tools/master/main/res/drawable/screenshot_01.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="230"src="https://raw.githubusercontent.com/nQuery512/R6Tools/master/main/res/drawable/screenshot_02.png">&nbsp;</section>
 
-<br><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I make this projet with <a href="https://github.com/delgez">delgez</a>, educational purpose only in any case, we won't monetize anything, all rights belong to there respective owner.</h3>
+<br><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; educational purpose only in any case, no monetizing anything, all rights belong to there respective owner.</h3>
 <br><h3>Special thanks to traex who make an awesome lib for <b>touch animation</b> called [RippleEffect](https://github.com/traex/RippleEffect) </h3>
